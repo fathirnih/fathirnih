@@ -11,9 +11,6 @@ I’m a passionate developer who loves building **web & mobile apps**, exploring
 - 💬 Ask me about: Laravel, Android Studio, or Git workflow
 - 🎸 I love listening to music and playing guitar — it helps me focus and relax while coding.
 - ☕ Favorite combo: ice coffee + late-night coding = perfect vibe.
-<p align="center">
-  <img src="https://i.pinimg.com/originals/89/5c/70/895c706a3cc6c753da3b0831d7a54ad0.gif" width="400" alt="Coding with coffee and guitar" />
-</p>
 
 ---
 
@@ -58,13 +55,8 @@ My ultimate goals are:
 - 🌍 To contribute to impactful open-source projects  
 - 🚀 To keep learning, growing, and inspiring others in the tech world  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" alt="Motivational coding gif" />
-</p>
 
 ---
-
-## 🧠 Developer Vibes
 > “Code. Debug. Repeat. And don’t forget your ice coffee ☕”
 
 <p align="center">
