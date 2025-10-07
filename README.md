@@ -1,4 +1,4 @@
-# 👑 Hi, I’m King Fathir!
+# 👑 Hi, I’m  Fathir!
 
 Welcome to my GitHub profile!  
 I’m a passionate developer who loves building web & mobile apps using **Laravel**, **MySQL**, **Kotlin**, **Bootstrap**, and **Argon** 💻📱  
