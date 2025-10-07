@@ -1,15 +1,15 @@
-# 👑 Hi, I’m Fathir!
+# 👑 Hi, I’m King Fathir!
 
 Welcome to my GitHub profile!  
-I’m a passionate developer who loves building web & mobile apps, exploring Laravel, and creating cool Android projects with Jetpack Compose 💻📱  
+I’m a passionate developer who loves building web & mobile apps using **Laravel**, **MySQL**, **Kotlin**, **Bootstrap**, and **Argon** 💻📱  
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Laravel**, **Jetpack Compose**, and **API integration**
+- 🌱 Currently learning **Laravel**, **MySQL**, and **Android development with Kotlin**
 - 🔭 Working on personal projects like **Top Up Store**, **Pemilihan OSIS**, and **Ekskul System**
-- 💬 Ask me about: Laravel, Android Studio, or Git workflow
-- 🎧 Favorite music: *Dewa 19* — “Cinta 'Aku Milikmu” 🎶
+- 💬 Ask me about: Laravel, Android Studio, Bootstrap, or Argon Dashboard
+- 🎧 Favorite music: *Dewa 19* — “Aku milikmu” 🎶
 - ⚡ Fun fact: I debug better after a cup of coffee ☕
 
 ---
@@ -19,10 +19,10 @@ I’m a passionate developer who loves building web & mobile apps, exploring Lar
 ### 💻 Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Argon](https://img.shields.io/badge/Argon_Dashboard-00BFFF?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -43,16 +43,16 @@ I’m a passionate developer who loves building web & mobile apps, exploring Lar
 
 ## 🧩 Current Focus
 - Building **Laravel Web Apps** with authentication & admin roles  
-- Creating **Android apps** using **View Binding** & local **JSON data**  
-- Exploring **Git collaboration workflows** with teammates  
-- Enhancing clean UI design & responsive layouts  
+- Designing modern UI with **Bootstrap** and **Argon Dashboard**  
+- Developing **Android apps** using **Kotlin** & local **JSON data**  
+- Improving **database design** with **MySQL**  
 
 ---
 
 ## 💡 Highlights
 ✨ **Projects:**
 - 🗳️ **Pemilihan OSIS App** — voting system with role-based login  
-- 🎮 **Top-Up Game Store** — game store using Jetpack Compose  
+- 🎮 **Top-Up Game Store** — Android app with game top-up system  
 - 📚 **Ekskul Registration System** — Laravel CRUD with login by NISN  
 
 ---
