@@ -10,7 +10,7 @@ I’m a passionate developer who loves building web & mobile apps using **Larave
 - 🔭 Working on personal projects like **Top Up Store**, **Pemilihan OSIS**, and **Ekskul System**
 - 💬 Ask me about: Laravel, Android Studio, Bootstrap, or Argon Dashboard
 - 🎧 Favorite music: *Dewa 19* — “Aku milikmu” 🎶
-- ⚡ Fun fact: I debug better after a cup of coffee ☕
+- ⚡ Fun fact: I love listening to music and playing guitar 🎸
 
 ---
 
