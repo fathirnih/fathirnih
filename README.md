@@ -58,14 +58,8 @@ I’m a passionate developer who loves building web & mobile apps using **Larave
 ---
 
 ## 📫 Connect With Me
-<p align="left">
-  <a href="[https://www.instagram.com/USERNAME_KAMU](https://www.instagram.com/fatthth?igsh=MTF2eHJnOGN5eWhwOA==)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:fathirulfatih29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatthth)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathirulfatih29@gmail.com)
 
 ---
 
